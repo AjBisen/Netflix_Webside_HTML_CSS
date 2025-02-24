@@ -1,0 +1,147 @@
+
+h2{
+    color: rgb(43, 226, 134);
+}
+address{
+    color: brown;
+}
+img{
+    width: 200px;
+   padding: 20px;
+    height: 300px;
+    text-align: end;
+    
+}
+
+h3,
+h5{
+    background-color: cadetblue;
+    color: chartreuse;
+}
+
+p{
+    margin: 10px;
+    text-align: start; 
+
+}
+
+pre{
+     font-weight: 1000;
+     color: brown;
+     background-color: rgb(70, 105, 180);
+     
+}
+#aa{
+    text-align: center;
+    color: aqua;
+}
+
+
+
+*{
+
+
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+#as{
+     color: blueviolet;
+     text-align: center;
+     background-color: bisque;
+}
+.a123{
+    background-color: blanchedalmond;
+    color: brown;
+}
+
+#abcd{
+    color: blueviolet;
+    background-color: cadetblue;
+}
+
+.fish{
+    
+       color: brown;
+       background-color: brown;}
+
+#qwer{
+
+    color: brown;
+}
+.rtyu{
+    color:rgb(117, 23, 44) ;
+    background-color: cadetblue;
+}
+
+.abcd{
+    text-align: end;
+}
+h1{
+    text-align: end;
+
+}
+img {
+    display: block;              /* Centers the image horizontally */
+    margin-left: auto;           /* Automatically adjusts the left margin */
+    margin-right: auto; 
+    border-radius: 10px;         /* Automatically adjusts the right margin */
+    width: 50%;                  /* Sets the width of the image to 50% of its container */
+    height: 30%;                 /* Sets the height of the image to 30% of its container */
+    border: 40px solid blue;   /* Adds a 40px blue border around the image */
+}
+
+.rahul{
+        border: 2px;
+        border-color: rgb(43, 70, 226);
+        border-style: dashed;
+        border-width: 10px;
+        border-left: rgb(255, 0, 64);
+        border-right: rgb(35, 165, 78);
+
+
+}
+
+.ghjk{
+    border: 10px;
+    border-color: aqua;
+    border-style: dashed;
+    font-style: italic;
+    border-width: 10px;
+
+}
+
+
+.asdf{
+      border: 10px;
+      border-color: blueviolet;
+      color: brown;
+       padding: 30px; 
+    
+}
+
+code{
+color: bisque;
+
+
+
+background-color: rgb(160, 95, 100);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

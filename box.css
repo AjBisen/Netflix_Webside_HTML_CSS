@@ -1,0 +1,71 @@
+#b{
+    color: rgb(93, 105, 22);
+    background-color: rgb(152, 228, 192);
+    width: 300px;
+    height: 300px;
+     font-size: 30px;
+     text-align: center;
+}
+
+div :hover{
+    background-color: blue;
+}
+
+
+
+#a{
+    background-color: blueviolet;
+    border: 40px;
+    border-radius: 40px;
+    width: 200px;
+    height: 200px;
+    
+}
+h1{
+
+
+    padding: 10px;
+}
+
+
+div{
+background-color: aquamarine;
+width: 200px;
+height: 200px;
+
+}
+
+#asdf{
+width: 200px;
+height:200px;
+background-color: blueviolet;
+font-size: 40px;
+font-style: italic;
+border: 10px;
+border-radius: 50px;
+text-align: center;
+padding:20px;
+transform: rotate(45deg);
+
+}
+
+.sakshi{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    border: 10px solid chocolate;border-radius: 50px;
+    transition: 2s;
+}
+
+.sakshi:hover {
+    box-shadow: 3px 3px 10px black;
+
+}
+
+
+
+
+p{
+    text-align: center;
+    color: blueviolet;
+}
